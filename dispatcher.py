@@ -207,10 +207,12 @@ class Dispatcher:
       def _allocateFare(self, origin, destination, time):
            # a very simple approach here gives taxis at most 5 ticks to respond, which can
            # surely be improved upon.
+
           if self._parent.simTime-time > 5:
              allocatedTaxi = -1
              winnerNode = None
              fareNode = self._parent.getNode(origin[0],origin[1])
+
              # this does the allocation. There are a LOT of conditions to check, namely:
              # 1) that the fare is asking for transport from a valid location;
              # 2) that the bidding taxi is in the dispatcher's list of taxis
@@ -218,6 +220,7 @@ class Dispatcher:
              # 4) that at least one valid taxi has actually bid on the fare
              if fareNode is not None:
                 for taxiIdx in self._fareBoard[origin][destination][time].bidders:
+
                     if len(self._taxis) > taxiIdx:
                        bidderLoc = self._taxis[taxiIdx].currentLocation
                        bidderNode = self._parent.getNode(bidderLoc[0],bidderLoc[1])
@@ -235,4 +238,27 @@ class Dispatcher:
                                 # but if so, allocate the taxi.
                                 self._fareBoard[origin][destination][time].taxi = allocatedTaxi     
                                 self._parent.allocateFare(origin,self._taxis[allocatedTaxi])
-     
+
+      def _AC_3Inference(self, edges, basenode=None):
+
+          print("Running AC-3 inference")
+          toConsider = list(range(len(edges)))  # initialise AC-3 with all edges
+          considered = []  # considered are the edges already evaluated
+
+          while len(toConsider) > 0:
+              # get the next constraint, iterating through the list to consider
+              nextEdge = toConsider.pop()
+              bIdx = 0 if basenode is not None and edges[nextEdge].endPoints.index(basenode) == 0 else 1
+              cIdx = 1 if bIdx == 0 else 0
+              # revise constraints according to AC-3 based on what we find
+              if edges[nextEdge].reviseConstraint(edges[nextEdge].endPoints[cIdx]):
+                  if edges[nextEdge].endPoints[cIdx].numLegal == 0:
+                      return False  # absolute failure. We can abort on inference
+                  # add any constraints that may need updating to the list
+                  reconsider = [r for r in considered if
+                                edges[r].endPoints[bIdx] == edges[nextEdge].endPoints[cIdx] and edges[r].endPoints[
+                                    cIdx] != edges[nextEdge].endPoints[bIdx]]
+                  toConsider += reconsider
+              considered.append(nextEdge)
+
+          return True  # AC-3 completed and a solution still may exist.
