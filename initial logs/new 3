@@ -1,0 +1,2689 @@
+C:\Users\james\AppData\Local\Microsoft\WindowsApps\python3.10.exe "D:\6032\cw\Python source for the coursework-20221025\RoboUber.py" 
+pygame 2.1.2 (SDL 2.0.18, Python 3.10.8)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Creating world...
+Invalid edges argument to add to Networld graph: not a list or tuple
+Exporting map...
+Creating taxis
+Adding a dispatcher
+Bringing taxis on duty
+Starting world
+Current time in the simulation world: 0
+100;False;256;(20, 0);
+101;False;256;(49, 15);
+102;False;256;(15, 49);
+103;False;256;(0, 35);
+Fare broadcast at (30, 41), destination (20, 27), price 37.77777777777778
+Taxi 100 alerted at (20, 0)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 49)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 1
+100;False;255;(20, 0);
+101;False;255;(49, 15);
+102;False;255;(15, 49);
+103;False;255;(0, 35);
+curTime: 0, world.time: 1
+Current time in the simulation world: 2
+100;False;254;(20, 0);curTime: 1, world.time: 2
+101;False;254;(49, 15);
+102;False;254;(15, 49);
+103;False;254;(0, 35);
+
+Current time in the simulation world: 3
+100;False;253;(20, 0);curTime: 2, world.time: 3
+101;False;253;(49, 15);
+
+102;False;253;(15, 49);
+103;False;253;(0, 35);
+Fare broadcast at (24, 28), destination (19, 20), price 33.333333333333336
+Taxi 100 alerted at (20, 0)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 49)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 4
+100;False;252;(20, 0);curTime: 3, world.time: 4
+
+101;False;252;(49, 15);
+102;False;252;(15, 49);
+103;False;252;(0, 35);
+Fare broadcast at (7, 42), destination (40, 0), price 57.77777777777778
+Taxi 100 alerted at (20, 0)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 49)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 5
+100;False;251;(20, 0);curTime: 4, world.time: 5
+
+101;False;251;(49, 15);
+102;False;251;(15, 49);
+103;False;251;(0, 35);
+Current time in the simulation world: 6
+100;False;250;(20, 0);curTime: 5, world.time: 6
+101;False;250;(49, 15);
+
+102;False;250;(15, 49);
+103;False;250;(0, 35);
+Taxi 102 at (15, 49) allocated fare at (30, 41)
+Current time in the simulation world: 7
+100;False;249;(20, 0);curTime: 6, world.time: 7
+
+101;False;249;(49, 15);
+102;False;249;(15, 49);
+103;False;249;(0, 35);
+Current time in the simulation world: 8
+100;False;248;(20, 0);curTime: 7, world.time: 8
+101;False;248;(49, 15);
+102;False;248;(15, 49);
+
+103;False;248;(0, 35);
+Current time in the simulation world: 9
+100;False;247;(20, 0);curTime: 8, world.time: 9
+101;False;247;(49, 15);
+
+102;False;247;(15, 48);
+103;False;247;(0, 35);
+Taxi 102 at (15, 48) allocated fare at (24, 28)
+Current time in the simulation world: 10
+100;False;246;(20, 0);curTime: 9, world.time: 10
+101;False;246;(49, 15);
+
+102;False;246;(15, 47);
+103;False;246;(0, 35);
+Taxi 100 at (20, 0) allocated fare at (7, 42)
+Taxi 102 at (15, 47) allocated fare at (7, 42)
+Fare broadcast at (20, 16), destination (24, 20), price 31.11111111111111
+Fare (20,16) abandoned because expectedTime2Dest was 3 and price was 31.11111111111111
+Taxi 100 alerted at (20, 0)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 47)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 11
+Fare (20,16) cancelledcurTime: 10, world.time: 11
+
+100;False;245;(20, 0);
+101;False;245;(49, 15);
+102;False;245;(15, 46);
+103;False;245;(0, 35);
+Current time in the simulation world: 12
+100;False;244;(20, 0);curTime: 11, world.time: 12
+
+101;False;244;(49, 15);
+102;False;244;(15, 45);
+103;False;244;(0, 35);
+Fare broadcast at (40, 13), destination (14, 10), price 42.22222222222222
+Taxi 100 alerted at (20, 0)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 45)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 13
+100;False;243;(20, 1);curTime: 12, world.time: 13
+101;False;243;(49, 15);
+
+102;False;243;(15, 44);
+103;False;243;(0, 35);
+Current time in the simulation world: 14
+100;False;242;(20, 2);curTime: 13, world.time: 14
+101;False;242;(49, 15);
+102;False;242;(15, 43);
+103;False;242;(0, 35);
+
+Fare broadcast at (20, 10), destination (20, 29), price 38.888888888888886
+Taxi 100 alerted at (20, 2)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 43)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 15
+100;False;241;(20, 3);curTime: 14, world.time: 15
+101;False;241;(49, 15);
+
+102;False;241;(15, 42);
+103;False;241;(0, 35);
+Current time in the simulation world: 16
+100;False;240;(20, 4);curTime: 15, world.time: 16
+
+101;False;240;(49, 15);
+102;False;240;(15, 41);
+103;False;240;(0, 35);
+Current time in the simulation world: 17
+100;False;239;(20, 5);curTime: 16, world.time: 17
+
+101;False;239;(49, 15);
+102;False;239;(15, 40);
+103;False;239;(0, 35);
+Fare broadcast at (12, 10), destination (40, 32), price 47.77777777777778
+Taxi 100 alerted at (20, 5)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (15, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 18
+100;False;238;(20, 6);curTime: 17, world.time: 18
+101;False;238;(49, 15);
+
+102;False;238;(16, 39);
+103;False;238;(0, 35);
+Taxi 101 at (49, 15) allocated fare at (40, 13)
+Current time in the simulation world: 19
+100;False;237;(20, 7);curTime: 18, world.time: 19
+101;False;237;(49, 15);
+
+102;False;237;(16, 39);
+103;False;237;(0, 35);
+Current time in the simulation world: 20
+100;False;236;(20, 8);curTime: 19, world.time: 20
+
+101;False;236;(49, 15);
+102;False;236;(17, 39);
+103;False;236;(0, 35);
+Taxi 101 at (49, 15) allocated fare at (20, 10)
+Fare broadcast at (15, 20), destination (7, 35), price 36.666666666666664
+Taxi 100 alerted at (20, 8)
+Taxi 101 alerted at (49, 15)
+Taxi 102 alerted at (17, 39)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 21
+100;False;235;(20, 9);curTime: 20, world.time: 21
+101;False;235;(48, 15);
+
+102;False;235;(18, 39);
+103;False;235;(0, 35);
+Current time in the simulation world: 22
+100;False;234;(20, 10);curTime: 21, world.time: 22
+101;False;234;(47, 15);
+
+102;False;234;(19, 38);
+103;False;234;(0, 35);
+Fare broadcast at (24, 24), destination (27, 27), price 30.0
+Fare (24,24) abandoned because expectedTime2Dest was 2 and price was 30.0
+Taxi 100 alerted at (20, 10)
+Taxi 101 alerted at (47, 15)
+Taxi 102 alerted at (19, 38)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (30, 44), destination (20, 26), price 38.888888888888886
+Taxi 100 alerted at (20, 10)
+Taxi 101 alerted at (47, 15)
+Taxi 102 alerted at (19, 38)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 23
+Fare (24,24) cancelledcurTime: 22, world.time: 23
+100;False;233;(21, 11);
+
+101;False;233;(46, 15);
+102;False;233;(19, 38);
+103;False;233;(0, 35);
+Current time in the simulation world: 24
+100;False;232;(21, 11);curTime: 23, world.time: 24
+
+101;False;232;(45, 15);
+102;False;232;(20, 38);
+103;False;232;(0, 35);
+Current time in the simulation world: 25
+100;False;231;(22, 12);curTime: 24, world.time: 25
+
+101;False;231;(44, 15);
+102;False;231;(21, 37);
+103;False;231;(0, 35);
+Current time in the simulation world: 26
+100;False;230;(22, 12);curTime: 25, world.time: 26
+
+101;False;230;(43, 15);
+102;False;230;(21, 37);
+103;False;230;(0, 35);
+Fare broadcast at (30, 15), destination (24, 40), price 42.22222222222222
+Taxi 100 alerted at (22, 12)
+Taxi 101 alerted at (43, 15)
+Taxi 102 alerted at (21, 37)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 27
+100;False;229;(22, 13);curTime: 26, world.time: 27
+101;False;229;(42, 15);
+
+102;False;229;(22, 37);
+103;False;229;(0, 35);
+Fare broadcast at (13, 10), destination (23, 34), price 42.22222222222222
+Taxi 100 alerted at (22, 13)
+Taxi 101 alerted at (42, 15)
+Taxi 102 alerted at (22, 37)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (40, 16), destination (30, 17), price 33.333333333333336
+Taxi 100 alerted at (22, 13)
+Taxi 101 alerted at (42, 15)
+Taxi 102 alerted at (22, 37)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 28
+100;False;228;(23, 14);curTime: 27, world.time: 28
+
+101;False;228;(41, 15);
+102;False;228;(23, 36);
+103;False;228;(0, 35);
+Current time in the simulation world: 29
+100;False;227;(23, 14);curTime: 28, world.time: 29
+
+101;False;227;(40, 15);
+102;False;227;(23, 36);
+103;False;227;(0, 35);
+Fare broadcast at (30, 27), destination (20, 22), price 34.44444444444444
+Taxi 100 alerted at (23, 14)
+Taxi 101 alerted at (40, 15)
+Taxi 102 alerted at (23, 36)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (30, 47), destination (11, 34), price 41.11111111111111
+Taxi 100 alerted at (23, 14)
+Taxi 101 alerted at (40, 15)
+Taxi 102 alerted at (23, 36)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 30
+100;False;226;(24, 15);curTime: 29, world.time: 30
+101;False;226;(40, 14);
+
+102;False;226;(24, 35);
+103;False;226;(0, 35);
+Current time in the simulation world: 31
+100;False;225;(24, 15);curTime: 30, world.time: 31
+
+101;False;225;(40, 13);
+Taxi 101 picked up a passenger
+102;False;225;(24, 35);
+103;False;225;(0, 35);
+Current time in the simulation world: 32
+100;False;224;(25, 15);curTime: 31, world.time: 32
+101;True;224;(40, 13);
+102;False;224;(24, 34);
+
+103;False;224;(0, 35);
+Current time in the simulation world: 33
+100;False;223;(26, 15);curTime: 32, world.time: 33
+101;True;223;(40, 14);
+102;False;223;(24, 33);
+103;False;223;(0, 35);
+
+Current time in the simulation world: 34
+100;False;222;(27, 15);curTime: 33, world.time: 34
+
+101;True;222;(40, 15);
+102;False;222;(24, 32);
+103;False;222;(0, 35);
+Current time in the simulation world: 35
+100;False;221;(28, 15);curTime: 34, world.time: 35
+101;True;221;(40, 16);
+
+102;False;221;(24, 31);
+103;False;221;(0, 35);
+Current time in the simulation world: 36
+100;False;220;(29, 15);curTime: 35, world.time: 36
+101;True;220;(40, 17);
+102;False;220;(24, 30);
+
+103;False;220;(0, 35);
+Current time in the simulation world: 37
+100;False;219;(30, 15);curTime: 36, world.time: 37
+101;True;219;(40, 18);
+102;False;219;(24, 29);
+103;False;219;(0, 35);
+Fare broadcast at (44, 7), destination (17, 39), price 51.11111111111111
+
+Taxi 100 alerted at (30, 15)
+Taxi 101 alerted at (40, 18)
+Taxi 102 alerted at (24, 29)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 38
+100;False;218;(31, 15);curTime: 37, world.time: 38
+
+101;True;218;(40, 19);
+102;False;218;(24, 28);
+103;False;218;(0, 35);
+Current time in the simulation world: 39
+100;False;217;(32, 15);curTime: 38, world.time: 39
+
+101;True;217;(40, 20);
+102;False;217;(24, 27);
+103;False;217;(0, 35);
+Current time in the simulation world: 40
+100;False;216;(33, 15);curTime: 39, world.time: 40
+101;True;216;(40, 21);
+102;False;216;(24, 26);
+103;False;216;(0, 35);
+
+Fare broadcast at (42, 42), destination (44, 8), price 46.666666666666664
+Taxi 100 alerted at (33, 15)
+Taxi 101 alerted at (40, 21)
+Taxi 102 alerted at (24, 26)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 41
+100;False;215;(34, 15);curTime: 40, world.time: 41
+
+101;True;215;(40, 22);
+102;False;215;(24, 25);
+103;False;215;(0, 35);
+Fare broadcast at (48, 15), destination (7, 10), price 51.11111111111111
+Taxi 100 alerted at (34, 15)
+Taxi 101 alerted at (40, 22)
+Taxi 102 alerted at (24, 25)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 42
+100;False;214;(35, 15);curTime: 41, world.time: 42
+
+101;True;214;(40, 23);
+102;False;214;(24, 24);
+103;False;214;(0, 35);
+Current time in the simulation world: 43
+100;False;213;(36, 15);curTime: 42, world.time: 43
+101;True;213;(40, 24);
+
+102;False;213;(24, 23);
+103;False;213;(0, 35);
+Current time in the simulation world: 44
+100;False;212;(37, 15);curTime: 43, world.time: 44
+101;True;212;(40, 25);
+102;False;212;(24, 22);
+103;False;212;(0, 35);
+
+Fare broadcast at (12, 20), destination (34, 21), price 40.0
+Taxi 100 alerted at (37, 15)
+Taxi 101 alerted at (40, 25)
+Taxi 102 alerted at (24, 22)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 45
+100;False;211;(38, 15);curTime: 44, world.time: 45
+
+101;True;211;(40, 26);
+102;False;211;(24, 21);
+103;False;211;(0, 35);
+Current time in the simulation world: 46
+100;False;210;(39, 15);curTime: 45, world.time: 46
+101;True;210;(40, 27);
+
+102;False;210;(24, 20);
+103;False;210;(0, 35);
+Fare broadcast at (11, 36), destination (40, 0), price 53.33333333333333
+Taxi 100 alerted at (39, 15)
+Taxi 101 alerted at (40, 27)
+Taxi 102 alerted at (24, 20)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 47
+100;False;209;(40, 15);curTime: 46, world.time: 47
+101;True;209;(40, 28);
+
+102;False;209;(24, 19);
+103;False;209;(0, 35);
+Fare broadcast at (44, 8), destination (17, 20), price 44.44444444444444
+Taxi 100 alerted at (40, 15)
+Taxi 101 alerted at (40, 28)
+Taxi 102 alerted at (24, 19)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 48
+100;False;208;(40, 16);curTime: 47, world.time: 48
+
+101;True;208;(40, 29);
+102;False;208;(24, 18);
+103;False;208;(0, 35);
+Fare broadcast at (3, 46), destination (42, 42), price 50.0
+Taxi 100 alerted at (40, 16)
+Taxi 101 alerted at (40, 29)
+Taxi 102 alerted at (24, 18)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 49
+100;False;207;(40, 17);curTime: 48, world.time: 49
+
+101;True;207;(40, 30);
+102;False;207;(24, 17);
+103;False;207;(0, 35);
+Fare broadcast at (35, 22), destination (35, 15), price 32.22222222222222
+Taxi 100 alerted at (40, 17)
+Taxi 101 alerted at (40, 30)
+Taxi 102 alerted at (24, 17)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 50
+100;False;206;(40, 18);curTime: 49, world.time: 50
+
+101;True;206;(40, 31);
+102;False;206;(24, 16);
+103;False;206;(0, 35);
+Fare broadcast at (40, 24), destination (30, 17), price 34.44444444444444
+Taxi 100 alerted at (40, 18)
+Taxi 101 alerted at (40, 31)
+Taxi 102 alerted at (24, 16)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (47, 15), destination (41, 41), price 42.22222222222222
+Taxi 100 alerted at (40, 18)
+Taxi 101 alerted at (40, 31)
+Taxi 102 alerted at (24, 16)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 51
+100;False;205;(40, 19);curTime: 50, world.time: 51
+
+101;True;205;(40, 32);
+102;False;205;(24, 15);
+103;False;205;(0, 35);
+Current time in the simulation world: 52
+100;False;204;(40, 20);curTime: 51, world.time: 52
+101;True;204;(40, 33);
+
+102;False;204;(25, 15);
+103;False;204;(0, 35);
+Current time in the simulation world: 53
+100;False;203;(40, 21);curTime: 52, world.time: 53
+
+101;True;203;(40, 34);
+102;False;203;(26, 15);
+103;False;203;(0, 35);
+Current time in the simulation world: 54
+100;False;202;(40, 22);curTime: 53, world.time: 54
+
+101;True;202;(40, 35);
+102;False;202;(27, 15);
+103;False;202;(0, 35);
+Fare broadcast at (24, 19), destination (29, 39), price 38.888888888888886
+Taxi 100 alerted at (40, 22)
+Taxi 101 alerted at (40, 35)
+Taxi 102 alerted at (27, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 55
+100;False;201;(40, 23);curTime: 54, world.time: 55
+101;True;201;(40, 36);
+
+102;False;201;(28, 15);
+103;False;201;(0, 35);
+Current time in the simulation world: 56
+100;False;200;(40, 24);curTime: 55, world.time: 56
+
+101;True;200;(40, 37);
+102;False;200;(29, 15);
+103;False;200;(0, 35);
+Current time in the simulation world: 57
+100;False;199;(40, 25);curTime: 56, world.time: 57
+
+101;True;199;(40, 38);
+102;False;199;(30, 15);
+103;False;199;(0, 35);
+Current time in the simulation world: 58
+100;False;198;(40, 26);curTime: 57, world.time: 58
+101;True;198;(40, 39);
+
+102;False;198;(31, 15);
+103;False;198;(0, 35);
+Fare broadcast at (41, 13), destination (32, 40), price 43.333333333333336
+Taxi 100 alerted at (40, 26)
+Taxi 101 alerted at (40, 39)
+Taxi 102 alerted at (31, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 59
+100;False;197;(40, 27);curTime: 58, world.time: 59
+
+101;True;197;(40, 40);
+102;False;197;(32, 15);
+103;False;197;(0, 35);
+Current time in the simulation world: 60
+100;False;196;(40, 28);curTime: 59, world.time: 60
+
+101;True;196;(39, 40);
+102;False;196;(33, 15);
+103;False;196;(0, 35);
+Fare broadcast at (1, 35), destination (27, 15), price 45.55555555555556
+Taxi 100 alerted at (40, 28)
+Taxi 101 alerted at (39, 40)
+Taxi 102 alerted at (33, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 61
+100;False;195;(40, 29);curTime: 60, world.time: 61
+
+101;True;195;(38, 40);
+102;False;195;(34, 15);
+103;False;195;(0, 35);
+Fare broadcast at (14, 40), destination (44, 44), price 44.44444444444444
+Taxi 100 alerted at (40, 29)
+Taxi 101 alerted at (38, 40)
+Taxi 102 alerted at (34, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 62
+100;False;194;(40, 30);curTime: 61, world.time: 62
+101;True;194;(37, 40);
+
+102;False;194;(35, 15);
+103;False;194;(0, 35);
+Current time in the simulation world: 63
+100;False;193;(40, 31);curTime: 62, world.time: 63
+101;True;193;(36, 40);
+
+102;False;193;(36, 15);
+103;False;193;(0, 35);
+Current time in the simulation world: 64
+100;False;192;(40, 32);curTime: 63, world.time: 64
+
+101;True;192;(35, 40);
+102;False;192;(37, 15);
+103;False;192;(0, 35);
+Taxi 102 at (37, 15) allocated fare at (41, 13)
+Current time in the simulation world: 65
+100;False;191;(40, 33);curTime: 64, world.time: 65
+101;True;191;(34, 40);
+102;False;191;(38, 15);
+103;False;191;(0, 35);
+Fare broadcast at (26, 40), destination (26, 24), price 36.666666666666664
+
+Taxi 100 alerted at (40, 33)
+Taxi 101 alerted at (34, 40)
+Taxi 102 alerted at (38, 15)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (40, 37), destination (30, 20), price 38.888888888888886
+Taxi 100 alerted at (40, 33)
+Taxi 101 alerted at (34, 40)
+Taxi 102 alerted at (38, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 66
+100;False;190;(40, 34);curTime: 65, world.time: 66
+101;True;190;(33, 40);
+
+102;False;190;(39, 15);
+103;False;190;(0, 35);
+Current time in the simulation world: 67
+100;False;189;(40, 35);curTime: 66, world.time: 67
+
+101;True;189;(32, 40);
+102;False;189;(40, 15);
+103;False;189;(0, 35);
+Taxi 100 at (40, 35) allocated fare at (14, 40)
+Current time in the simulation world: 68
+100;False;188;(40, 36);curTime: 67, world.time: 68
+
+101;True;188;(31, 40);
+102;False;188;(40, 16);
+103;False;188;(0, 35);
+Current time in the simulation world: 69
+100;False;187;(40, 37);curTime: 68, world.time: 69
+
+101;True;187;(30, 40);
+102;False;187;(40, 17);
+103;False;187;(0, 35);
+Current time in the simulation world: 70
+100;False;186;(40, 38);
+101;True;186;(29, 40);
+102;False;186;(40, 18);
+103;False;186;(0, 35);curTime: 69, world.time: 70
+
+Current time in the simulation world: 71
+100;False;185;(40, 39);curTime: 70, world.time: 71
+
+101;True;185;(28, 40);
+102;False;185;(40, 19);
+103;False;185;(0, 35);
+Taxi 100 at (40, 39) allocated fare at (26, 40)
+Taxi 100 at (40, 39) allocated fare at (40, 37)
+Fare broadcast at (4, 45), destination (7, 35), price 33.333333333333336
+Taxi 100 alerted at (40, 39)
+Taxi 101 alerted at (28, 40)
+Taxi 102 alerted at (40, 19)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 72
+100;False;184;(40, 40);curTime: 71, world.time: 72
+
+101;True;184;(27, 40);
+102;False;184;(40, 20);
+103;False;184;(0, 35);
+Current time in the simulation world: 73
+100;False;183;(39, 40);curTime: 72, world.time: 73
+101;True;183;(26, 40);
+
+102;False;183;(40, 21);
+103;False;183;(0, 35);
+Fare broadcast at (21, 21), destination (26, 40), price 38.888888888888886
+Taxi 100 alerted at (39, 40)
+Taxi 101 alerted at (26, 40)
+Taxi 102 alerted at (40, 21)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (42, 11), destination (43, 43), price 45.55555555555556
+Taxi 100 alerted at (39, 40)
+Taxi 101 alerted at (26, 40)
+Taxi 102 alerted at (40, 21)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 74
+100;False;182;(38, 40);curTime: 73, world.time: 74
+
+101;True;182;(25, 40);
+102;False;182;(40, 22);
+103;False;182;(0, 35);
+Fare broadcast at (20, 20), destination (30, 49), price 44.44444444444444
+Taxi 100 alerted at (38, 40)
+Taxi 101 alerted at (25, 40)
+Taxi 102 alerted at (40, 22)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 75
+100;False;181;(37, 40);curTime: 74, world.time: 75
+101;True;181;(24, 40);
+
+102;False;181;(40, 23);
+103;False;181;(0, 35);
+Fare broadcast at (30, 21), destination (40, 36), price 37.77777777777778
+Taxi 100 alerted at (37, 40)
+Taxi 101 alerted at (24, 40)
+Taxi 102 alerted at (40, 23)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 76
+100;False;180;(36, 40);curTime: 75, world.time: 76
+
+101;True;180;(23, 40);
+102;False;180;(40, 24);
+103;False;180;(0, 35);
+Current time in the simulation world: 77
+100;False;179;(35, 40);curTime: 76, world.time: 77
+
+101;True;179;(22, 40);
+102;False;179;(40, 25);
+103;False;179;(0, 35);
+Current time in the simulation world: 78
+100;False;178;(34, 40);curTime: 77, world.time: 78
+
+101;True;178;(21, 40);
+102;False;178;(40, 26);
+103;False;178;(0, 35);
+Current time in the simulation world: 79
+100;False;177;(33, 40);curTime: 78, world.time: 79
+
+101;True;177;(20, 40);
+102;False;177;(40, 27);
+103;False;177;(0, 35);
+Current time in the simulation world: 80
+100;False;176;(32, 40);curTime: 79, world.time: 80
+101;True;176;(19, 40);
+
+102;False;176;(40, 28);
+103;False;176;(0, 35);
+Fare broadcast at (21, 11), destination (29, 24), price 36.666666666666664
+Taxi 100 alerted at (32, 40)
+Taxi 101 alerted at (19, 40)
+Taxi 102 alerted at (40, 28)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 81
+100;False;175;(31, 40);curTime: 80, world.time: 81
+
+101;True;175;(18, 40);
+102;False;175;(40, 29);
+103;False;175;(0, 35);
+Current time in the simulation world: 82
+100;False;174;(30, 40);curTime: 81, world.time: 82
+101;True;174;(17, 40);
+
+102;False;174;(40, 30);
+103;False;174;(0, 35);
+Fare broadcast at (10, 35), destination (30, 44), price 40.0
+Taxi 100 alerted at (30, 40)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (40, 30)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 83
+100;False;173;(29, 40);curTime: 82, world.time: 83
+
+101;True;173;(16, 40);
+102;False;173;(40, 31);
+103;False;173;(0, 35);
+Current time in the simulation world: 84
+100;False;172;(28, 40);curTime: 83, world.time: 84
+101;True;172;(15, 40);
+
+102;False;172;(40, 32);
+103;False;172;(0, 35);
+Fare broadcast at (43, 43), destination (20, 16), price 47.77777777777778
+Taxi 100 alerted at (28, 40)
+Taxi 101 alerted at (15, 40)
+Taxi 102 alerted at (40, 32)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 85
+100;False;171;(27, 40);curTime: 84, world.time: 85
+101;True;171;(16, 39);
+
+102;False;171;(40, 33);
+103;False;171;(0, 35);
+Fare broadcast at (13, 40), destination (36, 15), price 46.666666666666664
+Taxi 100 alerted at (27, 40)
+Taxi 101 alerted at (16, 39)
+Taxi 102 alerted at (40, 33)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 86
+100;False;170;(26, 40);curTime: 85, world.time: 86
+
+101;True;170;(16, 39);
+102;False;170;(40, 34);
+103;False;170;(0, 35);
+Current time in the simulation world: 87
+100;False;169;(25, 40);curTime: 86, world.time: 87
+
+101;True;169;(17, 39);
+102;False;169;(40, 35);
+103;False;169;(0, 35);
+Current time in the simulation world: 88
+100;False;168;(24, 40);curTime: 87, world.time: 88
+
+101;True;168;(18, 39);
+102;False;168;(40, 36);
+103;False;168;(0, 35);
+Current time in the simulation world: 89
+100;False;167;(23, 40);curTime: 88, world.time: 89
+
+101;True;167;(19, 38);
+102;False;167;(40, 37);
+103;False;167;(0, 35);
+Fare broadcast at (23, 14), destination (25, 36), price 40.0
+Taxi 100 alerted at (23, 40)
+Taxi 101 alerted at (19, 38)
+Taxi 102 alerted at (40, 37)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 90
+100;False;166;(22, 40);curTime: 89, world.time: 90
+101;True;166;(19, 38);
+
+102;False;166;(40, 38);
+103;False;166;(0, 35);
+Fare broadcast at (1, 1), destination (30, 27), price 48.888888888888886
+Taxi 100 alerted at (22, 40)
+Taxi 101 alerted at (19, 38)
+Taxi 102 alerted at (40, 38)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 91
+100;False;165;(21, 40);curTime: 90, world.time: 91
+
+101;True;165;(20, 38);
+102;False;165;(40, 39);
+103;False;165;(0, 35);
+Fare broadcast at (15, 45), destination (20, 1), price 52.22222222222222
+Taxi 100 alerted at (21, 40)
+Taxi 101 alerted at (20, 38)
+Taxi 102 alerted at (40, 39)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (39, 15), destination (40, 19), price 30.0
+Fare (39,15) abandoned because expectedTime2Dest was 2 and price was 30.0
+Taxi 100 alerted at (21, 40)
+Taxi 101 alerted at (20, 38)
+Taxi 102 alerted at (40, 39)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 92
+Fare (39,15) cancelledcurTime: 91, world.time: 92
+100;False;164;(20, 40);
+
+101;True;164;(21, 37);
+102;False;164;(40, 40);
+103;False;164;(0, 35);
+Current time in the simulation world: 93
+100;False;163;(19, 40);curTime: 92, world.time: 93
+101;True;163;(21, 37);
+
+102;False;163;(39, 40);
+103;False;163;(0, 35);
+Current time in the simulation world: 94
+100;False;162;(18, 40);curTime: 93, world.time: 94
+101;True;162;(22, 37);
+
+102;False;162;(38, 40);
+103;False;162;(0, 35);
+Current time in the simulation world: 95
+100;False;161;(17, 40);curTime: 94, world.time: 95
+101;True;161;(23, 36);
+
+102;False;161;(37, 40);
+103;False;161;(0, 35);
+Current time in the simulation world: 96
+100;False;160;(16, 40);curTime: 95, world.time: 96
+
+101;True;160;(23, 36);
+102;False;160;(36, 40);
+103;False;160;(0, 35);
+Fare broadcast at (30, 28), destination (18, 20), price 35.55555555555556
+Taxi 100 alerted at (16, 40)
+Taxi 101 alerted at (23, 36)
+Taxi 102 alerted at (36, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 97
+100;False;159;(15, 40);curTime: 96, world.time: 97
+
+101;True;159;(24, 35);
+102;False;159;(35, 40);
+103;False;159;(0, 35);
+Current time in the simulation world: 98
+100;False;158;(16, 39);curTime: 97, world.time: 98
+101;True;158;(24, 35);
+
+102;False;158;(34, 40);
+103;False;158;(0, 35);
+Current time in the simulation world: 99
+100;False;157;(16, 39);curTime: 98, world.time: 99
+101;True;157;(24, 34);
+
+102;False;157;(33, 40);
+103;False;157;(0, 35);
+Current time in the simulation world: 100
+100;False;156;(17, 39);curTime: 99, world.time: 100
+101;True;156;(24, 33);
+
+102;False;156;(32, 40);
+103;False;156;(0, 35);
+Fare broadcast at (21, 40), destination (6, 43), price 36.666666666666664
+Taxi 100 alerted at (17, 39)
+Taxi 101 alerted at (24, 33)
+Taxi 102 alerted at (32, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 101
+Fare (24,28) cancelledcurTime: 100, world.time: 101
+
+100;False;155;(18, 39);
+101;True;155;(24, 32);
+102;False;155;(31, 40);
+103;False;155;(0, 35);
+Fare broadcast at (13, 20), destination (26, 40), price 41.11111111111111
+Taxi 100 alerted at (18, 39)
+Taxi 101 alerted at (24, 32)
+Taxi 102 alerted at (31, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 102
+100;False;154;(19, 38);curTime: 101, world.time: 102
+101;True;154;(24, 31);
+
+102;False;154;(30, 40);
+103;False;154;(0, 35);
+Fare broadcast at (20, 11), destination (23, 16), price 31.11111111111111
+Fare (20,11) abandoned because expectedTime2Dest was 3 and price was 31.11111111111111
+Taxi 100 alerted at (19, 38)
+Taxi 101 alerted at (24, 31)
+Taxi 102 alerted at (30, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 103
+Fare (20,11) cancelledcurTime: 102, world.time: 103
+
+100;False;153;(19, 38);
+101;True;153;(24, 30);
+102;False;153;(30, 41);
+103;False;153;(0, 35);
+Current time in the simulation world: 104
+100;False;152;(20, 38);curTime: 103, world.time: 104
+
+101;True;152;(24, 29);
+102;False;152;(30, 41);
+103;False;152;(0, 35);
+Current time in the simulation world: 105
+100;False;151;(21, 37);curTime: 104, world.time: 105
+
+101;True;151;(24, 28);
+102;False;151;(30, 40);
+103;False;151;(0, 35);
+Fare broadcast at (10, 18), destination (3, 46), price 43.333333333333336
+Taxi 100 alerted at (21, 37)
+Taxi 101 alerted at (24, 28)
+Taxi 102 alerted at (30, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 106
+100;False;150;(21, 37);curTime: 105, world.time: 106
+101;True;150;(24, 27);
+
+102;False;150;(31, 40);
+103;False;150;(0, 35);
+Current time in the simulation world: 107
+100;False;149;(22, 37);curTime: 106, world.time: 107
+101;True;149;(24, 26);
+
+102;False;149;(32, 40);
+103;False;149;(0, 35);
+Current time in the simulation world: 108
+100;False;148;(23, 36);curTime: 107, world.time: 108
+
+101;True;148;(24, 25);
+102;False;148;(33, 40);
+103;False;148;(0, 35);
+Fare broadcast at (29, 40), destination (44, 30), price 37.77777777777778
+Taxi 100 alerted at (23, 36)
+Taxi 101 alerted at (24, 25)
+Taxi 102 alerted at (33, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 109
+100;False;147;(23, 36);curTime: 108, world.time: 109
+101;True;147;(24, 24);
+
+102;False;147;(34, 40);
+103;False;147;(0, 35);
+Current time in the simulation world: 110
+100;False;146;(24, 35);curTime: 109, world.time: 110
+
+101;True;146;(24, 23);
+102;False;146;(35, 40);
+103;False;146;(0, 35);
+Fare broadcast at (7, 7), destination (20, 6), price 35.55555555555556
+Taxi 100 alerted at (24, 35)
+Taxi 101 alerted at (24, 23)
+Taxi 102 alerted at (35, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 111
+100;False;145;(24, 35);curTime: 110, world.time: 111
+
+101;True;145;(24, 22);
+102;False;145;(36, 40);
+103;False;145;(0, 35);
+Current time in the simulation world: 112
+100;False;144;(24, 34);curTime: 111, world.time: 112
+
+101;True;144;(24, 21);
+102;False;144;(37, 40);
+103;False;144;(0, 35);
+Current time in the simulation world: 113
+100;False;143;(24, 33);curTime: 112, world.time: 113
+101;True;143;(24, 20);
+
+102;False;143;(38, 40);
+103;False;143;(0, 35);
+Fare broadcast at (40, 15), destination (23, 34), price 42.22222222222222
+Taxi 100 alerted at (24, 33)
+Taxi 101 alerted at (24, 20)
+Taxi 102 alerted at (38, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 114
+100;False;142;(24, 32);curTime: 113, world.time: 114
+
+101;True;142;(24, 19);
+102;False;142;(39, 40);
+103;False;142;(0, 35);
+Current time in the simulation world: 115
+100;False;141;(24, 31);curTime: 114, world.time: 115
+101;True;141;(24, 18);
+
+102;False;141;(40, 40);
+103;False;141;(0, 35);
+Fare broadcast at (20, 26), destination (38, 28), price 37.77777777777778
+Taxi 100 alerted at (24, 31)
+Taxi 101 alerted at (24, 18)
+Taxi 102 alerted at (40, 40)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (25, 40), destination (20, 4), price 47.77777777777778
+Taxi 100 alerted at (24, 31)
+Taxi 101 alerted at (24, 18)
+Taxi 102 alerted at (40, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 116
+100;False;140;(24, 30);curTime: 115, world.time: 116
+101;True;140;(24, 17);
+
+102;False;140;(40, 39);
+103;False;140;(0, 35);
+Fare broadcast at (46, 4), destination (10, 17), price 48.888888888888886
+Taxi 100 alerted at (24, 30)
+Taxi 101 alerted at (24, 17)
+Taxi 102 alerted at (40, 39)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 117
+100;False;139;(24, 29);curTime: 116, world.time: 117
+
+101;True;139;(24, 16);
+102;False;139;(40, 38);
+103;False;139;(0, 35);
+Current time in the simulation world: 118
+100;False;138;(24, 28);curTime: 117, world.time: 118
+
+101;True;138;(24, 15);
+102;False;138;(40, 37);
+103;False;138;(0, 35);
+Fare broadcast at (20, 30), destination (31, 40), price 35.55555555555556
+Taxi 100 alerted at (24, 28)
+Taxi 101 alerted at (24, 15)
+Taxi 102 alerted at (40, 37)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 119
+100;False;137;(24, 27);curTime: 118, world.time: 119
+101;True;137;(23, 16);
+
+102;False;137;(40, 36);
+103;False;137;(0, 35);
+Fare broadcast at (40, 1), destination (30, 45), price 53.33333333333333
+Taxi 100 alerted at (24, 27)
+Taxi 101 alerted at (23, 16)
+Taxi 102 alerted at (40, 36)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 120
+100;False;136;(24, 26);curTime: 119, world.time: 120
+
+101;True;136;(23, 16);
+102;False;136;(40, 35);
+103;False;136;(0, 35);
+Fare broadcast at (20, 14), destination (41, 15), price 40.0
+Taxi 100 alerted at (24, 26)
+Taxi 101 alerted at (23, 16)
+Taxi 102 alerted at (40, 35)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 121
+100;False;135;(24, 25);curTime: 120, world.time: 121
+
+101;True;135;(22, 17);
+102;False;135;(40, 34);
+103;False;135;(0, 35);
+Taxi 102 at (40, 34) allocated fare at (20, 26)
+Taxi 102 at (40, 34) allocated fare at (25, 40)
+Current time in the simulation world: 122
+100;False;134;(24, 24);curTime: 121, world.time: 122
+101;True;134;(22, 17);
+102;False;134;(40, 33);
+103;False;134;(0, 35);
+
+Current time in the simulation world: 123
+100;False;133;(23, 25);curTime: 122, world.time: 123
+
+101;True;133;(22, 18);
+102;False;133;(40, 32);
+103;False;133;(0, 35);
+Fare broadcast at (39, 15), destination (14, 10), price 42.22222222222222
+Taxi 100 alerted at (23, 25)
+Taxi 101 alerted at (22, 18)
+Taxi 102 alerted at (40, 32)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (45, 45), destination (26, 37), price 38.888888888888886
+Taxi 100 alerted at (23, 25)
+Taxi 101 alerted at (22, 18)
+Taxi 102 alerted at (40, 32)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 124
+100;False;132;(23, 25);curTime: 123, world.time: 124
+
+101;True;132;(21, 19);
+102;False;132;(40, 31);
+103;False;132;(0, 35);
+Taxi 100 at (23, 25) allocated fare at (20, 30)
+Taxi 100 at (23, 25) allocated fare at (20, 30)
+Current time in the simulation world: 125
+100;False;131;(22, 26);curTime: 124, world.time: 125
+
+101;True;131;(21, 19);
+102;False;131;(40, 30);
+103;False;131;(0, 35);
+Taxi 102 at (40, 30) allocated fare at (40, 1)
+Current time in the simulation world: 126
+100;False;130;(22, 26);curTime: 125, world.time: 126
+
+101;True;130;(20, 20);
+102;False;130;(40, 29);
+103;False;130;(0, 35);
+Current time in the simulation world: 127
+100;False;129;(22, 27);curTime: 126, world.time: 127
+
+101;True;129;(20, 20);
+102;False;129;(40, 28);
+103;False;129;(0, 35);
+Current time in the simulation world: 128
+100;False;128;(21, 28);curTime: 127, world.time: 128
+101;True;128;(20, 19);
+
+102;False;128;(40, 27);
+103;False;128;(0, 35);
+Fare broadcast at (10, 10), destination (20, 24), price 37.77777777777778
+Taxi 100 alerted at (21, 28)
+Taxi 101 alerted at (20, 19)
+Taxi 102 alerted at (40, 27)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 129
+100;False;127;(21, 28);curTime: 128, world.time: 129
+
+101;True;127;(20, 18);
+102;False;127;(40, 26);
+103;False;127;(0, 35);
+Taxi 100 at (21, 28) allocated fare at (39, 15)
+Fare broadcast at (40, 35), destination (24, 21), price 40.0
+Taxi 100 alerted at (21, 28)
+Taxi 101 alerted at (20, 18)
+Taxi 102 alerted at (40, 26)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 130
+100;False;126;(21, 29);curTime: 129, world.time: 130
+101;True;126;(20, 17);
+
+102;False;126;(40, 25);
+103;False;126;(0, 35);
+Fare broadcast at (24, 35), destination (40, 7), price 45.55555555555556
+Taxi 100 alerted at (21, 29)
+Taxi 101 alerted at (20, 17)
+Taxi 102 alerted at (40, 25)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (16, 33), destination (17, 24), price 33.333333333333336
+Taxi 100 alerted at (21, 29)
+Taxi 101 alerted at (20, 17)
+Taxi 102 alerted at (40, 25)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (35, 40), destination (20, 27), price 38.888888888888886
+Taxi 100 alerted at (21, 29)
+Taxi 101 alerted at (20, 17)
+Taxi 102 alerted at (40, 25)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 131
+100;False;125;(20, 30);curTime: 130, world.time: 131
+
+101;True;125;(20, 16);
+102;False;125;(40, 24);
+103;False;125;(0, 35);
+Fare broadcast at (19, 24), destination (22, 17), price 32.22222222222222
+Taxi 100 alerted at (20, 30)
+Taxi 101 alerted at (20, 16)
+Taxi 102 alerted at (40, 24)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 132
+100;False;124;(20, 30);curTime: 131, world.time: 132
+
+101;True;124;(20, 15);
+102;False;124;(40, 23);
+103;False;124;(0, 35);
+Current time in the simulation world: 133
+100;False;123;(20, 29);curTime: 132, world.time: 133
+
+101;True;123;(20, 14);
+102;False;123;(40, 22);
+103;False;123;(0, 35);
+Fare broadcast at (4, 35), destination (34, 40), price 44.44444444444444
+Taxi 100 alerted at (20, 29)
+Taxi 101 alerted at (20, 14)
+Taxi 102 alerted at (40, 22)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 134
+Fare (40,16) cancelledcurTime: 133, world.time: 134
+
+100;False;122;(20, 28);
+101;True;122;(20, 13);
+102;False;122;(40, 21);
+103;False;122;(0, 35);
+Fare broadcast at (40, 0), destination (29, 29), price 45.55555555555556
+Taxi 100 alerted at (20, 28)
+Taxi 101 alerted at (20, 13)
+Taxi 102 alerted at (40, 21)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 135
+100;False;121;(20, 27);curTime: 134, world.time: 135
+101;True;121;(20, 12);
+
+102;False;121;(40, 20);
+103;False;121;(0, 35);
+Fare broadcast at (22, 37), destination (9, 9), price 44.44444444444444
+Taxi 100 alerted at (20, 27)
+Taxi 101 alerted at (20, 12)
+Taxi 102 alerted at (40, 20)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 136
+100;False;120;(20, 26);curTime: 135, world.time: 136
+101;True;120;(20, 11);
+
+102;False;120;(40, 19);
+103;False;120;(0, 35);
+Current time in the simulation world: 137
+Fare (35,22) cancelledcurTime: 136, world.time: 137
+
+100;False;119;(20, 25);
+101;True;119;(20, 10);
+102;False;119;(40, 18);
+103;False;119;(0, 35);
+Current time in the simulation world: 138
+100;False;118;(20, 24);curTime: 137, world.time: 138
+
+101;True;118;(19, 10);
+102;False;118;(40, 17);
+103;False;118;(0, 35);
+Current time in the simulation world: 139
+100;False;117;(20, 23);curTime: 138, world.time: 139
+
+101;True;117;(18, 10);
+102;False;117;(40, 16);
+103;False;117;(0, 35);
+Current time in the simulation world: 140
+100;False;116;(20, 22);curTime: 139, world.time: 140
+101;True;116;(17, 10);
+
+102;False;116;(40, 15);
+103;False;116;(0, 35);
+Current time in the simulation world: 141
+100;False;115;(20, 21);curTime: 140, world.time: 141
+
+101;True;115;(16, 10);
+102;False;115;(41, 14);
+103;False;115;(0, 35);
+Current time in the simulation world: 142
+100;False;114;(20, 20);curTime: 141, world.time: 142
+101;True;114;(15, 10);
+
+102;False;114;(41, 14);
+103;False;114;(0, 35);
+Current time in the simulation world: 143
+100;False;113;(19, 20);curTime: 142, world.time: 143
+
+101;True;113;(14, 10);
+102;False;113;(41, 13);
+103;False;113;(0, 35);
+Current time in the simulation world: 144
+100;False;112;(18, 20);curTime: 143, world.time: 144
+
+101;False;150.0;(14, 10);
+102;False;112;(41, 13);
+103;False;112;(0, 35);
+Fare broadcast at (40, 4), destination (23, 36), price 47.77777777777778
+Taxi 100 alerted at (18, 20)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (41, 13)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 145
+100;False;111;(17, 20);curTime: 144, world.time: 145
+
+101;False;149.0;(14, 10);
+102;False;111;(41, 14);
+103;False;111;(0, 35);
+Current time in the simulation world: 146
+100;False;110;(16, 20);curTime: 145, world.time: 146
+101;False;148.0;(14, 10);
+
+102;False;110;(40, 15);
+103;False;110;(0, 35);
+Current time in the simulation world: 147
+100;False;109;(15, 20);curTime: 146, world.time: 147
+
+101;False;147.0;(14, 10);
+102;False;109;(40, 15);
+103;False;109;(0, 35);
+Fare broadcast at (15, 10), destination (30, 26), price 40.0
+Taxi 100 alerted at (15, 20)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (40, 15)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 148
+100;False;108;(14, 20);curTime: 147, world.time: 148
+
+101;False;146.0;(14, 10);
+102;False;108;(40, 16);
+103;False;108;(0, 35);
+Current time in the simulation world: 149
+100;False;107;(13, 20);curTime: 148, world.time: 149
+
+101;False;145.0;(14, 10);
+102;False;107;(40, 17);
+103;False;107;(0, 35);
+Current time in the simulation world: 150
+100;False;106;(12, 20);curTime: 149, world.time: 150
+
+101;False;144.0;(14, 10);
+102;False;106;(40, 18);
+103;False;106;(0, 35);
+Fare broadcast at (27, 15), destination (17, 40), price 42.22222222222222
+Taxi 100 alerted at (12, 20)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (40, 18)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 151
+100;False;105;(11, 20);curTime: 150, world.time: 151
+
+101;False;143.0;(14, 10);
+102;False;105;(40, 19);
+103;False;105;(0, 35);
+Fare broadcast at (22, 12), destination (17, 10), price 31.11111111111111
+Fare (22,12) abandoned because expectedTime2Dest was 3 and price was 31.11111111111111
+Taxi 100 alerted at (11, 20)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (40, 19)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 152
+Fare (22,12) cancelledcurTime: 151, world.time: 152
+
+Fare (30,27) cancelled
+100;False;104;(10, 20);
+101;False;142.0;(14, 10);
+102;False;104;(40, 20);
+103;False;104;(0, 35);
+Current time in the simulation world: 153
+100;False;103;(10, 21);curTime: 152, world.time: 153
+101;False;141.0;(14, 10);
+102;False;103;(40, 21);
+
+103;False;103;(0, 35);
+Current time in the simulation world: 154
+100;False;102;(10, 22);curTime: 153, world.time: 154
+101;False;140.0;(14, 10);
+
+102;False;102;(40, 22);
+103;False;102;(0, 35);
+Fare broadcast at (20, 21), destination (43, 10), price 42.22222222222222
+Taxi 100 alerted at (10, 22)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (40, 22)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 155
+100;False;101;(10, 23);curTime: 154, world.time: 155
+
+101;False;139.0;(14, 10);
+102;False;101;(40, 23);
+103;False;101;(0, 35);
+Current time in the simulation world: 156
+100;False;100;(10, 24);curTime: 155, world.time: 156
+101;False;138.0;(14, 10);
+102;False;100;(40, 24);
+103;False;100;(0, 35);
+Taxi 101 at (14, 10) allocated fare at (27, 15)
+
+Current time in the simulation world: 157
+100;False;99;(10, 25);curTime: 156, world.time: 157
+
+101;False;137.0;(14, 10);
+102;False;99;(40, 25);
+103;False;99;(0, 35);
+Fare broadcast at (35, 22), destination (26, 15), price 34.44444444444444
+Taxi 100 alerted at (10, 25)
+Taxi 101 alerted at (14, 10)
+Taxi 102 alerted at (40, 25)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 158
+100;False;98;(10, 26);curTime: 157, world.time: 158
+
+101;False;136.0;(14, 10);
+102;False;98;(40, 26);
+103;False;98;(0, 35);
+Current time in the simulation world: 159
+100;False;97;(10, 27);curTime: 158, world.time: 159
+
+101;False;135.0;(15, 10);
+102;False;97;(40, 27);
+103;False;97;(0, 35);
+Current time in the simulation world: 160
+100;False;96;(10, 28);curTime: 159, world.time: 160
+
+101;False;134.0;(16, 10);
+102;False;96;(40, 28);
+103;False;96;(0, 35);
+Taxi 101 at (16, 10) allocated fare at (20, 21)
+Current time in the simulation world: 161
+100;False;95;(10, 29);curTime: 160, world.time: 161
+101;False;133.0;(17, 10);
+
+102;False;95;(40, 29);
+103;False;95;(0, 35);
+Current time in the simulation world: 162
+100;False;94;(10, 30);curTime: 161, world.time: 162
+101;False;132.0;(18, 10);
+102;False;94;(40, 30);
+103;False;94;(0, 35);
+Fare broadcast at (3, 35), destination (15, 41), price 35.55555555555556
+
+Taxi 100 alerted at (10, 30)
+Taxi 101 alerted at (18, 10)
+Taxi 102 alerted at (40, 30)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 163
+100;False;93;(10, 31);curTime: 162, world.time: 163
+
+101;False;131.0;(19, 10);
+102;False;93;(40, 31);
+103;False;93;(0, 35);
+Current time in the simulation world: 164
+100;False;92;(10, 32);curTime: 163, world.time: 164
+
+101;False;130.0;(20, 10);
+102;False;92;(40, 32);
+103;False;92;(0, 35);
+Fare broadcast at (20, 13), destination (7, 7), price 35.55555555555556
+Taxi 100 alerted at (10, 32)
+Taxi 101 alerted at (20, 10)
+Taxi 102 alerted at (40, 32)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 165
+100;False;91;(10, 33);curTime: 164, world.time: 165
+101;False;129.0;(21, 11);
+102;False;91;(40, 33);
+
+103;False;91;(0, 35);
+Current time in the simulation world: 166
+100;False;90;(10, 34);curTime: 165, world.time: 166
+101;False;128.0;(21, 11);
+102;False;90;(40, 34);
+
+103;False;90;(0, 35);
+Current time in the simulation world: 167
+100;False;89;(10, 35);curTime: 166, world.time: 167
+101;False;127.0;(22, 12);
+
+102;False;89;(40, 35);
+103;False;89;(0, 35);
+Current time in the simulation world: 168
+100;False;88;(10, 36);curTime: 167, world.time: 168
+
+101;False;126.0;(22, 12);
+102;False;88;(40, 36);
+103;False;88;(0, 35);
+Current time in the simulation world: 169
+100;False;87;(10, 37);curTime: 168, world.time: 169
+101;False;125.0;(22, 13);
+
+102;False;87;(40, 37);
+103;False;87;(0, 35);
+Current time in the simulation world: 170
+100;False;86;(10, 38);curTime: 169, world.time: 170
+
+101;False;124.0;(23, 14);
+102;False;86;(40, 38);
+103;False;86;(0, 35);
+Current time in the simulation world: 171
+100;False;85;(10, 39);curTime: 170, world.time: 171
+101;False;123.0;(23, 14);
+102;False;85;(40, 39);
+
+103;False;85;(0, 35);
+Current time in the simulation world: 172
+100;False;84;(10, 40);curTime: 171, world.time: 172
+101;False;122.0;(24, 15);
+102;False;84;(40, 40);
+103;False;84;(0, 35);
+Fare broadcast at (20, 5), destination (21, 31), price 42.22222222222222
+
+Taxi 100 alerted at (10, 40)
+Taxi 101 alerted at (24, 15)
+Taxi 102 alerted at (40, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 173
+100;False;83;(9, 41);curTime: 172, world.time: 173
+
+101;False;121.0;(24, 15);
+102;False;83;(39, 40);
+103;False;83;(0, 35);
+Current time in the simulation world: 174
+Fare (40,24) cancelledcurTime: 173, world.time: 174
+
+100;False;82;(9, 41);
+101;False;120.0;(25, 15);
+102;False;82;(38, 40);
+103;False;82;(0, 35);
+Current time in the simulation world: 175
+100;False;81;(8, 42);curTime: 174, world.time: 175
+
+101;False;119.0;(26, 15);
+102;False;81;(37, 40);
+103;False;81;(0, 35);
+Current time in the simulation world: 176
+100;False;80;(8, 42);curTime: 175, world.time: 176
+
+101;False;118.0;(27, 15);
+Taxi 101 picked up a passenger
+102;False;80;(36, 40);
+103;False;80;(0, 35);
+Current time in the simulation world: 177
+100;False;79;(7, 42);curTime: 176, world.time: 177
+
+101;True;117.0;(27, 15);
+102;False;79;(35, 40);
+103;False;79;(0, 35);
+Fare broadcast at (24, 24), destination (44, 44), price 43.333333333333336
+Taxi 100 alerted at (7, 42)
+Taxi 101 alerted at (27, 15)
+Taxi 102 alerted at (35, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 178
+100;False;78;(7, 42);curTime: 177, world.time: 178
+
+101;True;116.0;(28, 15);
+102;False;78;(34, 40);
+103;False;78;(0, 35);
+Current time in the simulation world: 179
+Fare (4,45) cancelledcurTime: 178, world.time: 179
+
+100;False;77;(7, 42);
+101;True;115.0;(29, 15);
+102;False;77;(33, 40);
+103;False;77;(0, 35);
+Fare broadcast at (10, 30), destination (19, 10), price 40.0
+Taxi 100 alerted at (7, 42)
+Taxi 101 alerted at (29, 15)
+Taxi 102 alerted at (33, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 180
+100;False;76;(7, 42);curTime: 179, world.time: 180
+
+101;True;114.0;(30, 15);
+102;False;76;(32, 40);
+103;False;76;(0, 35);
+Current time in the simulation world: 181
+100;False;75;(7, 42);curTime: 180, world.time: 181
+
+101;True;113.0;(31, 15);
+102;False;75;(31, 40);
+103;False;75;(0, 35);
+Fare broadcast at (22, 22), destination (24, 21), price 28.88888888888889
+Fare (22,22) abandoned because expectedTime2Dest was 1 and price was 28.88888888888889
+Taxi 100 alerted at (7, 42)
+Taxi 101 alerted at (31, 15)
+Taxi 102 alerted at (31, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 182
+Fare (22,22) cancelledcurTime: 181, world.time: 182
+100;False;74;(7, 42);
+101;True;112.0;(32, 15);
+102;False;74;(30, 40);
+
+103;False;74;(0, 35);
+Current time in the simulation world: 183
+100;False;73;(7, 42);curTime: 182, world.time: 183
+
+101;True;111.0;(33, 15);
+102;False;73;(29, 40);
+103;False;73;(0, 35);
+Taxi 102 at (29, 40) allocated fare at (24, 24)
+Current time in the simulation world: 184
+100;False;72;(7, 42);curTime: 183, world.time: 184
+
+101;True;110.0;(34, 15);
+102;False;72;(28, 40);
+103;False;72;(0, 35);
+Fare broadcast at (12, 24), destination (20, 13), price 35.55555555555556
+Taxi 100 alerted at (7, 42)
+Taxi 101 alerted at (34, 15)
+Taxi 102 alerted at (28, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 185
+100;False;71;(7, 42);curTime: 184, world.time: 185
+101;True;109.0;(35, 15);
+
+102;False;71;(27, 40);
+103;False;71;(0, 35);
+Taxi 100 at (7, 42) allocated fare at (10, 30)
+Fare broadcast at (49, 49), destination (25, 24), price 46.666666666666664
+Taxi 100 alerted at (7, 42)
+Taxi 101 alerted at (35, 15)
+Taxi 102 alerted at (27, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 186
+100;False;70;(7, 42);curTime: 185, world.time: 186
+
+101;True;108.0;(36, 15);
+102;False;70;(26, 40);
+103;False;70;(0, 35);
+Current time in the simulation world: 187
+100;False;69;(7, 42);curTime: 186, world.time: 187
+
+101;True;107.0;(37, 15);
+102;False;69;(25, 40);
+103;False;69;(0, 35);
+Current time in the simulation world: 188
+100;False;68;(8, 42);curTime: 187, world.time: 188
+
+101;True;106.0;(38, 15);
+102;False;68;(24, 40);
+103;False;68;(0, 35);
+Current time in the simulation world: 189
+Fare (30,41) cancelledcurTime: 188, world.time: 189
+100;False;67;(9, 41);
+
+101;True;105.0;(39, 15);
+102;False;67;(23, 40);
+103;False;67;(0, 35);
+Current time in the simulation world: 190
+100;False;66;(9, 41);curTime: 189, world.time: 190
+
+101;True;104.0;(40, 15);
+102;False;66;(22, 40);
+103;False;66;(0, 35);
+Current time in the simulation world: 191
+100;False;65;(10, 40);curTime: 190, world.time: 191
+
+101;True;103.0;(40, 16);
+102;False;65;(21, 40);
+103;False;65;(0, 35);
+Fare broadcast at (42, 30), destination (6, 6), price 52.22222222222222
+Taxi 100 alerted at (10, 40)
+Taxi 101 alerted at (40, 16)
+Taxi 102 alerted at (21, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 192
+100;False;64;(10, 40);curTime: 191, world.time: 192
+
+101;True;102.0;(40, 17);
+102;False;64;(20, 40);
+103;False;64;(0, 35);
+Current time in the simulation world: 193
+100;False;63;(10, 39);curTime: 192, world.time: 193
+
+101;True;101.0;(40, 18);
+102;False;63;(19, 40);
+103;False;63;(0, 35);
+Current time in the simulation world: 194
+100;False;62;(10, 38);curTime: 193, world.time: 194
+
+101;True;100.0;(40, 19);
+102;False;62;(18, 40);
+103;False;62;(0, 35);
+Fare broadcast at (27, 40), destination (40, 40), price 34.44444444444444
+Taxi 100 alerted at (10, 38)
+Taxi 101 alerted at (40, 19)
+Taxi 102 alerted at (18, 40)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 195
+Fare (15,20) cancelledcurTime: 194, world.time: 195
+100;False;61;(10, 37);
+
+101;True;99.0;(40, 20);
+102;False;61;(17, 40);
+103;False;61;(0, 35);
+Current time in the simulation world: 196
+100;False;60;(10, 36);curTime: 195, world.time: 196
+101;True;98.0;(40, 21);
+
+102;False;60;(16, 40);
+103;False;60;(0, 35);
+Current time in the simulation world: 197
+100;False;59;(10, 35);curTime: 196, world.time: 197
+
+101;True;97.0;(40, 22);
+102;False;59;(15, 40);
+103;False;59;(0, 35);
+Current time in the simulation world: 198
+100;False;58;(10, 34);curTime: 197, world.time: 198
+101;True;96.0;(40, 23);
+102;False;58;(16, 39);
+
+103;False;58;(0, 35);
+Current time in the simulation world: 199
+100;False;57;(10, 33);curTime: 198, world.time: 199
+101;True;95.0;(40, 24);
+
+102;False;57;(16, 39);
+103;False;57;(0, 35);
+Current time in the simulation world: 200
+100;False;56;(10, 32);curTime: 199, world.time: 200
+
+101;True;94.0;(40, 25);
+102;False;56;(17, 39);
+103;False;56;(0, 35);
+Fare broadcast at (30, 42), destination (25, 15), price 43.333333333333336
+Taxi 100 alerted at (10, 32)
+Taxi 101 alerted at (40, 25)
+Taxi 102 alerted at (17, 39)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 201
+100;False;55;(10, 31);curTime: 200, world.time: 201
+101;True;93.0;(40, 26);
+102;False;55;(18, 39);
+
+103;False;55;(0, 35);
+Current time in the simulation world: 202
+100;False;54;(10, 30);curTime: 201, world.time: 202
+
+Taxi 100 picked up a passenger
+101;True;92.0;(40, 27);
+102;False;54;(19, 38);
+103;False;54;(0, 35);
+Current time in the simulation world: 203
+100;True;53;(10, 30);curTime: 202, world.time: 203
+101;True;91.0;(40, 28);
+
+102;False;53;(19, 38);
+103;False;53;(0, 35);
+Fare broadcast at (20, 8), destination (20, 29), price 38.888888888888886
+Taxi 100 alerted at (10, 30)
+Taxi 101 alerted at (40, 28)
+Taxi 102 alerted at (19, 38)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (18, 39), destination (43, 15), price 46.666666666666664
+Taxi 100 alerted at (10, 30)
+Taxi 101 alerted at (40, 28)
+Taxi 102 alerted at (19, 38)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 204
+100;True;52;(10, 29);curTime: 203, world.time: 204
+
+101;True;90.0;(40, 29);
+102;False;52;(20, 38);
+103;False;52;(0, 35);
+Current time in the simulation world: 205
+100;True;51;(10, 28);curTime: 204, world.time: 205
+
+101;True;89.0;(40, 30);
+102;False;51;(21, 37);
+103;False;51;(0, 35);
+Current time in the simulation world: 206
+100;True;50;(10, 27);curTime: 205, world.time: 206
+
+101;True;88.0;(40, 31);
+102;False;50;(21, 37);
+103;False;50;(0, 35);
+Current time in the simulation world: 207
+100;True;49;(10, 26);curTime: 206, world.time: 207
+
+101;True;87.0;(40, 32);
+102;False;49;(22, 37);
+103;False;49;(0, 35);
+Current time in the simulation world: 208
+Fare (20,10) cancelledcurTime: 207, world.time: 208
+
+100;True;48;(10, 25);
+101;True;86.0;(40, 33);
+102;False;48;(23, 36);
+103;False;48;(0, 35);
+Current time in the simulation world: 209
+100;True;47;(10, 24);curTime: 208, world.time: 209
+
+101;True;85.0;(40, 34);
+102;False;47;(23, 36);
+103;False;47;(0, 35);
+Current time in the simulation world: 210
+100;True;46;(10, 23);curTime: 209, world.time: 210
+101;True;84.0;(40, 35);
+
+102;False;46;(24, 35);
+103;False;46;(0, 35);
+Current time in the simulation world: 211
+100;True;45;(10, 22);curTime: 210, world.time: 211
+
+101;True;83.0;(40, 36);
+102;False;45;(24, 35);
+103;False;45;(0, 35);
+Fare broadcast at (10, 11), destination (20, 30), price 40.0
+Taxi 100 alerted at (10, 22)
+Taxi 101 alerted at (40, 36)
+Taxi 102 alerted at (24, 35)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (32, 17), destination (5, 44), price 48.888888888888886
+Taxi 100 alerted at (10, 22)
+Taxi 101 alerted at (40, 36)
+Taxi 102 alerted at (24, 35)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 212
+100;True;44;(10, 21);curTime: 211, world.time: 212
+
+101;True;82.0;(40, 37);
+102;False;44;(24, 34);
+103;False;44;(0, 35);
+Current time in the simulation world: 213
+100;True;43;(10, 20);curTime: 212, world.time: 213
+
+101;True;81.0;(40, 38);
+102;False;43;(24, 33);
+103;False;43;(0, 35);
+Current time in the simulation world: 214
+100;True;42;(10, 19);curTime: 213, world.time: 214
+101;True;80.0;(40, 39);
+
+102;False;42;(24, 32);
+103;False;42;(0, 35);
+Current time in the simulation world: 215
+100;True;41;(10, 18);curTime: 214, world.time: 215
+
+101;True;79.0;(40, 40);
+102;False;41;(24, 31);
+103;False;41;(0, 35);
+Fare broadcast at (20, 27), destination (30, 42), price 37.77777777777778
+Taxi 100 alerted at (10, 18)
+Taxi 101 alerted at (40, 40)
+Taxi 102 alerted at (24, 31)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 216
+100;True;40;(10, 17);curTime: 215, world.time: 216
+
+101;True;78.0;(39, 40);
+102;False;40;(24, 30);
+103;False;40;(0, 35);
+Taxi 102 at (24, 30) allocated fare at (7, 7)
+Current time in the simulation world: 217
+100;True;39;(10, 16);curTime: 216, world.time: 217
+
+101;True;77.0;(38, 40);
+102;False;39;(24, 29);
+103;False;39;(0, 35);
+Current time in the simulation world: 218
+100;True;38;(10, 15);curTime: 217, world.time: 218
+
+101;True;76.0;(37, 40);
+102;False;38;(24, 28);
+103;False;38;(0, 35);
+Fare broadcast at (4, 4), destination (40, 37), price 54.44444444444444
+Taxi 100 alerted at (10, 15)
+Taxi 101 alerted at (37, 40)
+Taxi 102 alerted at (24, 28)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (10, 31), destination (13, 20), price 34.44444444444444
+Taxi 100 alerted at (10, 15)
+Taxi 101 alerted at (37, 40)
+Taxi 102 alerted at (24, 28)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 219
+Fare (19,24) cancelledcurTime: 218, world.time: 219
+100;True;37;(10, 14);
+
+101;True;75.0;(36, 40);
+102;False;37;(24, 27);
+103;False;37;(0, 35);
+Current time in the simulation world: 220
+100;True;36;(10, 13);curTime: 219, world.time: 220
+
+101;True;74.0;(35, 40);
+102;False;36;(24, 26);
+103;False;36;(0, 35);
+Fare broadcast at (20, 6), destination (20, 17), price 34.44444444444444
+Taxi 100 alerted at (10, 13)
+Taxi 101 alerted at (35, 40)
+Taxi 102 alerted at (24, 26)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 221
+100;True;35;(10, 12);curTime: 220, world.time: 221
+
+101;True;73.0;(34, 40);
+102;False;35;(24, 25);
+103;False;35;(0, 35);
+Current time in the simulation world: 222
+100;True;34;(10, 11);curTime: 221, world.time: 222
+101;True;72.0;(33, 40);
+
+102;False;34;(24, 24);
+103;False;34;(0, 35);
+Current time in the simulation world: 223
+100;True;33;(10, 10);curTime: 222, world.time: 223
+
+101;True;71.0;(32, 40);
+102;False;33;(24, 23);
+103;False;33;(0, 35);
+Current time in the simulation world: 224
+100;True;32;(11, 10);curTime: 223, world.time: 224
+
+101;True;70.0;(31, 40);
+102;False;32;(24, 22);
+103;False;32;(0, 35);
+Fare broadcast at (8, 42), destination (24, 20), price 43.333333333333336
+Taxi 100 alerted at (11, 10)
+Taxi 101 alerted at (31, 40)
+Taxi 102 alerted at (24, 22)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 225
+100;True;31;(12, 10);curTime: 224, world.time: 225
+101;True;69.0;(30, 40);
+102;False;31;(24, 21);
+103;False;31;(0, 35);
+
+Current time in the simulation world: 226
+100;True;30;(13, 10);curTime: 225, world.time: 226
+
+101;True;68.0;(29, 40);
+102;False;30;(24, 20);
+103;False;30;(0, 35);
+Current time in the simulation world: 227
+100;True;29;(14, 10);curTime: 226, world.time: 227
+101;True;67.0;(28, 40);
+
+102;False;29;(24, 19);
+103;False;29;(0, 35);
+Current time in the simulation world: 228
+100;True;28;(15, 10);curTime: 227, world.time: 228
+
+101;True;66.0;(27, 40);
+102;False;28;(24, 18);
+103;False;28;(0, 35);
+Current time in the simulation world: 229
+Fare (16,33) cancelledcurTime: 228, world.time: 229
+
+100;True;27;(16, 10);
+101;True;65.0;(26, 40);
+102;False;27;(24, 17);
+103;False;27;(0, 35);
+Current time in the simulation world: 230
+100;True;26;(17, 10);curTime: 229, world.time: 230
+
+101;True;64.0;(25, 40);
+102;False;26;(24, 16);
+103;False;26;(0, 35);
+Current time in the simulation world: 231
+Fare (26,40) cancelledcurTime: 230, world.time: 231
+100;True;25;(18, 10);
+
+101;True;63.0;(24, 40);
+102;False;25;(24, 15);
+103;False;25;(0, 35);
+Current time in the simulation world: 232
+100;True;24;(19, 10);
+curTime: 231, world.time: 232101;True;62.0;(23, 40);
+102;False;24;(23, 16);
+103;False;24;(0, 35);
+
+Current time in the simulation world: 233
+100;False;59.0;(19, 10);curTime: 232, world.time: 233
+101;True;61.0;(22, 40);
+102;False;23;(23, 16);
+103;False;23;(0, 35);
+
+Current time in the simulation world: 234
+100;False;58.0;(19, 10);curTime: 233, world.time: 234
+
+101;True;60.0;(21, 40);
+102;False;22;(22, 17);
+103;False;22;(0, 35);
+Current time in the simulation world: 235
+100;False;57.0;(19, 10);curTime: 234, world.time: 235
+
+101;True;59.0;(20, 40);
+102;False;21;(22, 17);
+103;False;21;(0, 35);
+Current time in the simulation world: 236
+100;False;56.0;(19, 10);curTime: 235, world.time: 236
+
+101;True;58.0;(19, 40);
+102;False;20;(22, 18);
+103;False;20;(0, 35);
+Current time in the simulation world: 237
+100;False;55.0;(19, 10);curTime: 236, world.time: 237
+101;True;57.0;(18, 40);
+
+102;False;19;(21, 19);
+103;False;19;(0, 35);
+Current time in the simulation world: 238
+Fare (30,44) cancelledcurTime: 237, world.time: 238
+
+100;False;54.0;(19, 10);
+101;True;56.0;(17, 40);
+102;False;18;(21, 19);
+103;False;18;(0, 35);
+Fare broadcast at (30, 46), destination (20, 6), price 51.11111111111111
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (21, 19)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 239
+100;False;53.0;(19, 10);curTime: 238, world.time: 239
+
+101;False;93.0;(17, 40);
+102;False;17;(20, 20);
+103;False;17;(0, 35);
+Fare broadcast at (24, 28), destination (21, 31), price 30.0
+Fare (24,28) abandoned because expectedTime2Dest was 2 and price was 30.0
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (20, 20)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (46, 46), destination (30, 45), price 36.666666666666664
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (20, 20)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 240
+Fare (24,28) cancelledcurTime: 239, world.time: 240
+
+100;False;52.0;(19, 10);
+101;False;92.0;(17, 40);
+102;False;16;(20, 20);
+103;False;16;(0, 35);
+Current time in the simulation world: 241
+Fare (21,11) cancelledcurTime: 240, world.time: 241
+
+100;False;51.0;(19, 10);
+101;False;91.0;(17, 40);
+102;False;15;(20, 19);
+103;False;15;(0, 35);
+Fare broadcast at (10, 19), destination (40, 12), price 44.44444444444444
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (20, 19)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 242
+Fare (30,28) cancelledcurTime: 241, world.time: 242
+
+100;False;50.0;(19, 10);
+101;False;90.0;(17, 40);
+102;False;14;(20, 18);
+103;False;14;(0, 35);
+Current time in the simulation world: 243
+100;False;49.0;(19, 10);curTime: 242, world.time: 243
+
+101;False;89.0;(17, 40);
+102;False;13;(20, 17);
+103;False;13;(0, 35);
+Fare broadcast at (10, 13), destination (27, 19), price 37.77777777777778
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (17, 40)
+Taxi 102 alerted at (20, 17)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 244
+100;False;48.0;(19, 10);curTime: 243, world.time: 244
+
+101;False;88.0;(17, 40);
+102;False;12;(20, 16);
+103;False;12;(0, 35);
+Taxi 101 at (17, 40) allocated fare at (30, 46)
+Taxi 101 at (17, 40) allocated fare at (30, 46)
+Current time in the simulation world: 245
+100;False;47.0;(19, 10);curTime: 244, world.time: 245
+
+101;False;87.0;(17, 40);
+102;False;11;(20, 15);
+103;False;11;(0, 35);
+Current time in the simulation world: 246
+100;False;46.0;(19, 10);curTime: 245, world.time: 246
+101;False;86.0;(17, 40);
+
+102;False;10;(20, 14);
+103;False;10;(0, 35);
+Current time in the simulation world: 247
+100;False;45.0;(19, 10);curTime: 246, world.time: 247
+
+101;False;85.0;(18, 40);
+102;False;9;(20, 13);
+103;False;9;(0, 35);
+Fare broadcast at (10, 24), destination (10, 13), price 34.44444444444444
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (18, 40)
+Taxi 102 alerted at (20, 13)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 248
+100;False;44.0;(19, 10);curTime: 247, world.time: 248
+
+101;False;84.0;(19, 40);
+102;False;8;(20, 12);
+103;False;8;(0, 35);
+Fare broadcast at (9, 10), destination (18, 20), price 35.55555555555556
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (19, 40)
+Taxi 102 alerted at (20, 12)
+Taxi 103 alerted at (0, 35)
+Fare broadcast at (19, 24), destination (40, 17), price 40.0
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (19, 40)
+Taxi 102 alerted at (20, 12)
+Taxi 103 alerted at (0, 35)
+Current time in the simulation world: 249
+100;False;43.0;(19, 10);curTime: 248, world.time: 249
+
+101;False;83.0;(20, 40);
+102;False;7;(20, 11);
+103;False;7;(0, 35);
+Current time in the simulation world: 250
+100;False;42.0;(19, 10);curTime: 249, world.time: 250
+
+101;False;82.0;(21, 40);
+102;False;6;(20, 10);
+103;False;6;(0, 35);
+Current time in the simulation world: 251
+100;False;41.0;(19, 10);curTime: 250, world.time: 251
+
+101;False;81.0;(22, 40);
+102;False;5;(19, 10);
+103;False;5;(0, 35);
+Current time in the simulation world: 252
+100;False;40.0;(19, 10);curTime: 251, world.time: 252
+
+101;False;80.0;(23, 40);
+102;False;4;(18, 10);
+103;False;4;(0, 35);
+Current time in the simulation world: 253
+100;False;39.0;(19, 10);curTime: 252, world.time: 253
+101;False;79.0;(24, 40);
+
+102;False;3;(17, 10);
+103;False;3;(0, 35);
+Current time in the simulation world: 254
+Fare (7,7) cancelledcurTime: 253, world.time: 254
+100;False;38.0;(19, 10);
+
+101;False;78.0;(25, 40);
+102;False;2;(16, 10);
+103;False;2;(0, 35);
+Current time in the simulation world: 255
+100;False;37.0;(19, 10);curTime: 254, world.time: 255
+
+101;False;77.0;(26, 40);
+102;False;1;(15, 10);
+103;False;1;(0, 35);
+Current time in the simulation world: 256
+100;False;36.0;(19, 10);curTime: 255, world.time: 256
+101;False;76.0;(27, 40);
+
+102;False;0;(14, 10);
+Taxi 102 is going off-duty
+103;False;0;(0, 35);
+Taxi 103 is going off-duty
+Fare broadcast at (15, 24), destination (31, 15), price 37.77777777777778
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (27, 40)
+Current time in the simulation world: 257
+100;False;35.0;(19, 10);curTime: 256, world.time: 257
+101;False;75.0;(28, 40);
+
+Fare broadcast at (22, 33), destination (41, 14), price 42.22222222222222
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (28, 40)
+Current time in the simulation world: 258
+100;False;34.0;(19, 10);curTime: 257, world.time: 258
+101;False;74.0;(29, 40);
+
+Current time in the simulation world: 259
+100;False;33.0;(19, 10);curTime: 258, world.time: 259
+
+101;False;73.0;(30, 40);
+Current time in the simulation world: 260
+Fare (21,40) cancelledcurTime: 259, world.time: 260
+
+100;False;32.0;(19, 10);
+101;False;72.0;(30, 41);
+Current time in the simulation world: 261
+100;False;31.0;(19, 10);curTime: 260, world.time: 261
+
+101;False;71.0;(30, 42);
+Fare broadcast at (24, 26), destination (30, 17), price 33.333333333333336
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (30, 42)
+Current time in the simulation world: 262
+100;False;30.0;(19, 10);curTime: 261, world.time: 262
+
+101;False;70.0;(30, 43);
+Current time in the simulation world: 263
+100;False;29.0;(19, 10);curTime: 262, world.time: 263
+101;False;69.0;(30, 44);
+
+Fare broadcast at (30, 49), destination (35, 15), price 46.666666666666664
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (30, 44)
+Current time in the simulation world: 264
+100;False;28.0;(19, 10);curTime: 263, world.time: 264
+
+101;False;68.0;(30, 45);
+Current time in the simulation world: 265
+Fare (30,47) cancelledcurTime: 264, world.time: 265
+
+100;False;27.0;(19, 10);
+101;False;67.0;(30, 46);
+Taxi 101 picked up a passenger
+Current time in the simulation world: 266
+100;False;26.0;(19, 10);curTime: 265, world.time: 266
+
+101;True;66.0;(30, 46);
+Current time in the simulation world: 267
+100;False;25.0;(19, 10);curTime: 266, world.time: 267
+
+101;True;65.0;(30, 45);
+Current time in the simulation world: 268
+100;False;24.0;(19, 10);curTime: 267, world.time: 268
+
+101;True;64.0;(30, 44);
+Current time in the simulation world: 269
+100;False;23.0;(19, 10);curTime: 268, world.time: 269
+
+101;True;63.0;(30, 43);
+Current time in the simulation world: 270
+100;False;22.0;(19, 10);curTime: 269, world.time: 270
+
+101;True;62.0;(30, 42);
+Current time in the simulation world: 271
+100;False;21.0;(19, 10);curTime: 270, world.time: 271
+101;True;61.0;(30, 41);
+
+Current time in the simulation world: 272
+Fare (24,19) cancelledcurTime: 271, world.time: 272
+100;False;20.0;(19, 10);
+
+101;True;60.0;(30, 40);
+Current time in the simulation world: 273
+Fare (12,20) cancelledcurTime: 272, world.time: 273
+100;False;19.0;(19, 10);
+
+101;True;59.0;(31, 40);
+Current time in the simulation world: 274
+100;False;18.0;(19, 10);curTime: 273, world.time: 274
+101;True;58.0;(32, 40);
+
+Current time in the simulation world: 275
+100;False;17.0;(19, 10);curTime: 274, world.time: 275
+
+101;True;57.0;(33, 40);
+Fare broadcast at (24, 15), destination (15, 49), price 47.77777777777778
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (33, 40)
+Current time in the simulation world: 276
+100;False;16.0;(19, 10);curTime: 275, world.time: 276
+
+101;True;56.0;(34, 40);
+Fare broadcast at (20, 17), destination (44, 7), price 42.22222222222222
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (34, 40)
+Current time in the simulation world: 277
+Fare (21,21) cancelledcurTime: 276, world.time: 277
+
+100;False;15.0;(19, 10);
+101;True;55.0;(35, 40);
+Current time in the simulation world: 278
+100;False;14.0;(19, 10);curTime: 277, world.time: 278
+
+101;True;54.0;(36, 40);
+Fare broadcast at (21, 40), destination (37, 26), price 40.0
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (36, 40)
+Current time in the simulation world: 279
+100;False;13.0;(19, 10);curTime: 278, world.time: 279
+
+101;True;53.0;(37, 40);
+Fare broadcast at (40, 11), destination (20, 23), price 41.11111111111111
+Taxi 100 alerted at (19, 10)
+Taxi 101 alerted at (37, 40)
+Current time in the simulation world: 280
+Fare (30,21) cancelledcurTime: 279, world.time: 280
+
+100;False;12.0;(19, 10);
+101;True;52.0;(38, 40);
+Current time in the simulation world: 281
+100;False;11.0;(19, 10);curTime: 280, world.time: 281
+101;True;51.0;(39, 40);
+
+Current time in the simulation world: 282
+100;False;10.0;(19, 10);curTime: 281, world.time: 282
+
+101;True;50.0;(40, 40);
+Current time in the simulation world: 283
+100;False;9.0;(19, 10);curTime: 282, world.time: 283
+
+101;True;49.0;(40, 39);
+Current time in the simulation world: 284
+100;False;8.0;(19, 10);curTime: 283, world.time: 284
+101;True;48.0;(40, 38);
+
+Current time in the simulation world: 285
+100;False;7.0;(19, 10);curTime: 284, world.time: 285
+
+101;True;47.0;(40, 37);
+Current time in the simulation world: 286
+Fare (20,30) cancelledcurTime: 285, world.time: 286
+100;False;6.0;(19, 10);
+
+101;True;46.0;(40, 36);
+Current time in the simulation world: 287
+100;False;5.0;(19, 10);curTime: 286, world.time: 287
+
+101;True;45.0;(40, 35);
+Current time in the simulation world: 288
+Fare (35,22) cancelledcurTime: 287, world.time: 288
+
+100;False;4.0;(19, 10);
+101;True;44.0;(40, 34);
+Current time in the simulation world: 289
+100;False;3.0;(19, 10);curTime: 288, world.time: 289
+
+101;True;43.0;(40, 33);
+Current time in the simulation world: 290
+100;False;2.0;(19, 10);curTime: 289, world.time: 290
+
+101;True;42.0;(40, 32);
+Current time in the simulation world: 291
+Fare (30,15) cancelledcurTime: 290, world.time: 291
+100;False;1.0;(19, 10);
+
+101;True;41.0;(40, 31);
+Current time in the simulation world: 292
+100;False;0.0;(19, 10);curTime: 291, world.time: 292
+Taxi 100 is going off-duty
+101;True;40.0;(40, 30);
+
+Current time in the simulation world: 293
+101;True;39.0;(40, 29);curTime: 292, world.time: 293
+Fare broadcast at (33, 40), destination (22, 33), price 35.55555555555556
+Taxi 101 alerted at (40, 29)
+
+Current time in the simulation world: 294
+Fare (13,10) cancelledcurTime: 293, world.time: 294
+
+Fare (40,37) cancelled
+101;True;38.0;(40, 28);
+Current time in the simulation world: 295
+101;True;37.0;(40, 27);curTime: 294, world.time: 295
+
+Current time in the simulation world: 296
+101;True;36.0;(40, 26);
+curTime: 295, world.time: 296
+Current time in the simulation world: 297
+101;True;35.0;(40, 25);curTime: 296, world.time: 297
+
+Current time in the simulation world: 298
+101;True;34.0;(40, 24);curTime: 297, world.time: 298
+
+Current time in the simulation world: 299
+Fare (3,35) cancelledcurTime: 298, world.time: 299
+Fare (20,26) cancelled
+101;True;33.0;(40, 23);
+
+Fare broadcast at (5, 44), destination (10, 25), price 38.888888888888886
+Taxi 101 alerted at (40, 23)
+Current time in the simulation world: 300
+101;True;32.0;(40, 22);curTime: 299, world.time: 300
+
+Current time in the simulation world: 301
+101;True;31.0;(40, 21);curTime: 300, world.time: 301
+
+Current time in the simulation world: 302
+101;True;30.0;(40, 20);curTime: 301, world.time: 302
+
+Current time in the simulation world: 303
+101;True;29.0;(40, 19);curTime: 302, world.time: 303
+
+Current time in the simulation world: 304
+Fare (10,35) cancelledcurTime: 303, world.time: 304
+101;True;28.0;(40, 18);
+
+Current time in the simulation world: 305
+101;True;27.0;(40, 17);curTime: 304, world.time: 305
+
+Current time in the simulation world: 306
+101;True;26.0;(40, 16);curTime: 305, world.time: 306
+
+Current time in the simulation world: 307
+101;True;25.0;(40, 15);curTime: 306, world.time: 307
+
+Fare broadcast at (15, 40), destination (12, 20), price 38.888888888888886
+Taxi 101 alerted at (40, 15)
+Fare broadcast at (35, 15), destination (20, 6), price 37.77777777777778
+Taxi 101 alerted at (40, 15)
+Current time in the simulation world: 308
+101;True;24.0;(39, 15);curTime: 307, world.time: 308
+
+Current time in the simulation world: 309
+101;True;23.0;(38, 15);curTime: 308, world.time: 309
+
+Current time in the simulation world: 310
+101;True;22.0;(37, 15);curTime: 309, world.time: 310
+Fare broadcast at (42, 15), destination (25, 24), price 38.888888888888886
+
+Taxi 101 alerted at (37, 15)
+Current time in the simulation world: 311
+101;True;21.0;(36, 15);curTime: 310, world.time: 311
+
+Current time in the simulation world: 312
+101;True;20.0;(35, 15);curTime: 311, world.time: 312
+
+Current time in the simulation world: 313
+101;True;19.0;(34, 15);curTime: 312, world.time: 313
+
+Current time in the simulation world: 314
+101;True;18.0;(33, 15);curTime: 313, world.time: 314
+
+Current time in the simulation world: 315
+Fare (23,14) cancelledcurTime: 314, world.time: 315
+
+101;True;17.0;(32, 15);
+Fare broadcast at (3, 3), destination (4, 10), price 32.22222222222222
+Taxi 101 alerted at (32, 15)
+Current time in the simulation world: 316
+101;True;16.0;(31, 15);curTime: 315, world.time: 316
+
+Fare broadcast at (6, 35), destination (19, 40), price 35.55555555555556
+Taxi 101 alerted at (31, 15)
+Current time in the simulation world: 317
+101;True;15.0;(30, 15);curTime: 316, world.time: 317
+
+Current time in the simulation world: 318
+101;True;14.0;(30, 16);curTime: 317, world.time: 318
+
+Current time in the simulation world: 319
+Fare (29,40) cancelledcurTime: 318, world.time: 319
+
+101;True;13.0;(30, 17);
+Fare broadcast at (4, 45), destination (20, 18), price 45.55555555555556
+Taxi 101 alerted at (30, 17)
+Fare broadcast at (19, 31), destination (27, 38), price 33.333333333333336
+Taxi 101 alerted at (30, 17)
+Current time in the simulation world: 320
+Fare (47,15) cancelledcurTime: 319, world.time: 320
+
+101;True;12.0;(30, 18);
+Current time in the simulation world: 321
+101;True;11.0;(30, 19);curTime: 320, world.time: 321
+
+Current time in the simulation world: 322
+Fare (20,13) cancelledcurTime: 321, world.time: 322
+
+101;True;10.0;(30, 20);
+Current time in the simulation world: 323
+101;True;9.0;(30, 21);curTime: 322, world.time: 323
+
+Current time in the simulation world: 324
+101;True;8.0;(30, 22);curTime: 323, world.time: 324
+
+Current time in the simulation world: 325
+Fare (12,24) cancelledcurTime: 324, world.time: 325
+101;True;7.0;(30, 23);
+
+Current time in the simulation world: 326
+101;True;6.0;(30, 24);curTime: 325, world.time: 326
+
+Current time in the simulation world: 327
+101;True;5.0;(30, 25);curTime: 326, world.time: 327
+
+Current time in the simulation world: 328
+101;True;4.0;(30, 26);curTime: 327, world.time: 328
+
+Current time in the simulation world: 329
+Fare (35,40) cancelledcurTime: 328, world.time: 329
+
+101;True;3.0;(30, 27);
+Current time in the simulation world: 330
+101;True;2.0;(30, 28);curTime: 329, world.time: 330
+
+Current time in the simulation world: 331
+101;True;1.0;(30, 29);curTime: 330, world.time: 331
+
+Current time in the simulation world: 332
+101;True;0.0;(30, 30);curTime: 331, world.time: 332
+
+Current time in the simulation world: 333
+101;True;-1.0;(29, 31);curTime: 332, world.time: 333
+
+Fare broadcast at (30, 40), destination (20, 6), price 47.77777777777778
+Taxi 101 alerted at (29, 31)
+Current time in the simulation world: 334
+101;True;-2.0;(29, 31);curTime: 333, world.time: 334
+
+Current time in the simulation world: 335
+101;True;-3.0;(28, 32);curTime: 334, world.time: 335
+
+Current time in the simulation world: 336
+101;True;-4.0;(28, 32);curTime: 335, world.time: 336
+
+Fare broadcast at (15, 47), destination (40, 19), price 48.888888888888886
+Taxi 101 alerted at (28, 32)
+Current time in the simulation world: 337
+101;True;-5.0;(27, 32);curTime: 336, world.time: 337
+
+Current time in the simulation world: 338
+Fare (27,40) cancelledcurTime: 337, world.time: 338
+
+101;True;-6.0;(26, 33);
+Current time in the simulation world: 339
+101;True;-7.0;(26, 33);curTime: 338, world.time: 339
+
+Current time in the simulation world: 340
+101;True;-8.0;(25, 34);curTime: 339, world.time: 340
+Fare broadcast at (10, 32), destination (30, 21), price 40.0
+
+Taxi 101 alerted at (25, 34)
+Current time in the simulation world: 341
+Fare (10,31) cancelledcurTime: 340, world.time: 341
+
+Fare (20,14) cancelled
+101;True;-9.0;(25, 34);
+Current time in the simulation world: 342
+Fare (45,45) cancelledcurTime: 341, world.time: 342
+
+101;True;-10.0;(24, 35);
+Fare broadcast at (10, 35), destination (6, 6), price 44.44444444444444
+Taxi 101 alerted at (24, 35)
+Current time in the simulation world: 343
+Fare (10,10) cancelledcurTime: 342, world.time: 343
+
+Fare (20,6) cancelled
+101;True;-11.0;(24, 35);
+Current time in the simulation world: 344
+101;True;-12.0;(24, 34);curTime: 343, world.time: 344
+
+Current time in the simulation world: 345
+101;True;-13.0;(24, 33);curTime: 344, world.time: 345
+
+Current time in the simulation world: 346
+101;True;-14.0;(24, 32);curTime: 345, world.time: 346
+
+Current time in the simulation world: 347
+101;True;-15.0;(24, 31);curTime: 346, world.time: 347
+
+Current time in the simulation world: 348
+101;True;-16.0;(24, 30);curTime: 347, world.time: 348
+
+Fare broadcast at (45, 45), destination (49, 15), price 44.44444444444444
+Taxi 101 alerted at (24, 30)
+Current time in the simulation world: 349
+101;True;-17.0;(24, 29);curTime: 348, world.time: 349
+
+Current time in the simulation world: 350
+101;True;-18.0;(24, 28);curTime: 349, world.time: 350
+
+Current time in the simulation world: 351
+101;True;-19.0;(24, 27);curTime: 350, world.time: 351
+
+Current time in the simulation world: 352
+Fare (13,20) cancelledcurTime: 351, world.time: 352
+
+101;True;-20.0;(24, 26);
+Fare broadcast at (18, 10), destination (32, 15), price 35.55555555555556
+Taxi 101 alerted at (24, 26)
+Current time in the simulation world: 353
+Fare (44,8) cancelledcurTime: 352, world.time: 353
+101;True;-21.0;(24, 25);
+
+Current time in the simulation world: 354
+Fare (41,13) cancelledcurTime: 353, world.time: 354
+
+101;True;-22.0;(24, 24);
+Current time in the simulation world: 355
+Fare (40,35) cancelledcurTime: 354, world.time: 355
+101;True;-23.0;(24, 23);
+
+Current time in the simulation world: 356
+101;True;-24.0;(24, 22);curTime: 355, world.time: 356
+
+Fare broadcast at (16, 40), destination (20, 30), price 33.333333333333336
+Taxi 101 alerted at (24, 22)
+Current time in the simulation world: 357
+101;True;-25.0;(24, 21);curTime: 356, world.time: 357
+
+Current time in the simulation world: 358
+101;True;-26.0;(24, 20);curTime: 357, world.time: 358
+
+Current time in the simulation world: 359
+101;True;-27.0;(24, 19);curTime: 358, world.time: 359
+
+Current time in the simulation world: 360
+101;True;-28.0;(24, 18);curTime: 359, world.time: 360
+
+Current time in the simulation world: 361
+Fare (10,24) cancelledcurTime: 360, world.time: 361
+101;True;-29.0;(24, 17);
+
+Current time in the simulation world: 362
+101;True;-30.0;(24, 16);curTime: 361, world.time: 362
+
+Current time in the simulation world: 363
+101;True;-31.0;(24, 15);curTime: 362, world.time: 363
+Fare broadcast at (24, 25), destination (42, 12), price 40.0
+
+Taxi 101 alerted at (24, 15)
+Fare broadcast at (26, 33), destination (26, 21), price 34.44444444444444
+Taxi 101 alerted at (24, 15)
+Current time in the simulation world: 364
+101;True;-32.0;(23, 16);curTime: 363, world.time: 364
+
+Current time in the simulation world: 365
+101;True;-33.0;(23, 16);curTime: 364, world.time: 365
+
+Current time in the simulation world: 366
+101;True;-34.0;(22, 17);curTime: 365, world.time: 366
+
+Current time in the simulation world: 367
+101;True;-35.0;(22, 17);curTime: 366, world.time: 367
+Fare broadcast at (23, 40), destination (42, 30), price 40.0
+
+Taxi 101 alerted at (22, 17)
+Current time in the simulation world: 368
+101;True;-36.0;(22, 18);curTime: 367, world.time: 368
+
+Current time in the simulation world: 369
+101;True;-37.0;(21, 19);curTime: 368, world.time: 369
+
+Fare broadcast at (20, 14), destination (42, 15), price 40.0
+Taxi 101 alerted at (21, 19)
+Current time in the simulation world: 370
+101;True;-38.0;(21, 19);curTime: 369, world.time: 370
+
+Current time in the simulation world: 371
+101;True;-39.0;(20, 20);curTime: 370, world.time: 371
+
+Current time in the simulation world: 372
+Fare (15,10) cancelledcurTime: 371, world.time: 372
+
+Fare (14,40) cancelled
+101;True;-40.0;(20, 20);
+Fare broadcast at (33, 18), destination (3, 10), price 45.55555555555556
+Taxi 101 alerted at (20, 20)
+Current time in the simulation world: 373
+101;True;-41.0;(20, 19);curTime: 372, world.time: 373
+
+Current time in the simulation world: 374
+101;True;-42.0;(20, 18);curTime: 373, world.time: 374
+
+Current time in the simulation world: 375
+101;True;-43.0;(20, 17);curTime: 374, world.time: 375
+
+Current time in the simulation world: 376
+101;True;-44.0;(20, 16);curTime: 375, world.time: 376
+
+Current time in the simulation world: 377
+101;True;-45.0;(20, 15);curTime: 376, world.time: 377
+
+Fare broadcast at (24, 19), destination (40, 0), price 41.11111111111111
+Taxi 101 alerted at (20, 15)
+Current time in the simulation world: 378
+Fare (40,15) cancelledcurTime: 377, world.time: 378
+
+101;True;-46.0;(20, 14);
+Fare broadcast at (30, 22), destination (41, 41), price 40.0
+Taxi 101 alerted at (20, 14)
+Current time in the simulation world: 379
+101;True;-47.0;(20, 13);curTime: 378, world.time: 379
+
+Fare broadcast at (0, 10), destination (3, 35), price 42.22222222222222
+Taxi 101 alerted at (20, 13)
+Fare broadcast at (30, 43), destination (20, 14), price 44.44444444444444
+Taxi 101 alerted at (20, 13)
+Current time in the simulation world: 380
+101;True;-48.0;(20, 12);curTime: 379, world.time: 380
+
+Current time in the simulation world: 381
+Fare (12,10) cancelledcurTime: 380, world.time: 381
+
+101;True;-49.0;(20, 11);
+Current time in the simulation world: 382
+101;True;-50.0;(20, 10);curTime: 381, world.time: 382
+
+Current time in the simulation world: 383
+Fare (24,26) cancelledcurTime: 382, world.time: 383
+
+Fare (39,15) cancelled
+101;True;-51.0;(20, 9);
+Current time in the simulation world: 384
+101;True;-52.0;(20, 8);curTime: 383, world.time: 384
+
+Current time in the simulation world: 385
+Fare (42,42) cancelledcurTime: 384, world.time: 385
+101;True;-53.0;(20, 7);
+
+Current time in the simulation world: 386
+101;True;-54.0;(20, 6);curTime: 385, world.time: 386
+
+Current time in the simulation world: 387
+101;False;-9.0;(20, 6);curTime: 386, world.time: 387
+
+Taxi 101 is going off-duty
+Current time in the simulation world: 388
+curTime: 387, world.time: 388
+Current time in the simulation world: 389
+curTime: 388, world.time: 389
+Current time in the simulation world: 390
+Fare (1,35) cancelledcurTime: 389, world.time: 390
+
+Current time in the simulation world: 391
+Fare broadcast at (35, 22), destination (24, 31), price 35.55555555555556curTime: 390, world.time: 391
+
+Current time in the simulation world: 392
+Fare broadcast at (1, 35), destination (40, 15), price 52.22222222222222curTime: 391, world.time: 392
+
+Current time in the simulation world: 393
+Fare broadcast at (7, 35), destination (17, 39), price 33.333333333333336curTime: 392, world.time: 393
+
+Current time in the simulation world: 394
+Fare (20,20) cancelledcurTime: 393, world.time: 394
+
+
+Process finished with exit code 0
